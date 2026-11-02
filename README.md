@@ -36,3 +36,8 @@ Before running a script, update its model, dataset, and output paths for your lo
 # Consolidated Results
 
 For the Precision, Recall, and F1 scores of each relation type within each model category, please refer to the file output/detail_results.md.
+
+# Citation
+Please cite the following paper if you use this code and dataset in your work.
+
+>Yingyi Zhang, Chengzhi Zhang\*. Enhancing Knowledge Entity Relation Extraction in Abstracts and Full-text Content of Academic Articles Using Large Language Models. ***Scientometrics***. 2026, 131(5): 3547–3584.  [[doi]](https://doi.org/10.1007/s11192-026-05892-8)  [[arXiv]](https://arxiv.org/abs/2610.41552)  [[Dataset & Source Code]](https://github.com/YingyiZhang/Knowledge-Entity-Relation-Extraction-with-LLM)
