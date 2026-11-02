@@ -35,4 +35,4 @@ Before running a script, update its model, dataset, and output paths for your lo
 
 # Consolidated Results
 
-For the Precision, Recall, and F1 scores of each relation type within each model category, please refer to the file output/detail_results.
+For the Precision, Recall, and F1 scores of each relation type within each model category, please refer to the file output/detail_results.md.
