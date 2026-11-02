@@ -1,5 +1,5 @@
 # Knowledge-Entity-Relation-Extraction-with-LLM
-This repository contains code for relation extraction experiments using large language models and pretrained language models.
+This repository contains code for "Enhancing Knowledge Entity Relation Extraction in Abstracts and Full-text Content of Academic Articles Using Large Language Models".
 
 ## Model Checkpoints
 
